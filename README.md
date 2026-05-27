@@ -19,7 +19,9 @@ This project builds a predictive maintenance system for industrial machinery usi
 
 ## Dataset
 
-**AI4I 2020 Predictive Maintenance Dataset**
+**AI4I 2020 Predictive Maintenance Dataset** 
+
+https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020
 
 - Loaded directly from a public GitHub repository (`ai4i2020.csv`)
 - Contains sensor readings from industrial machines along with a binary failure label
