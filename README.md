@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/28306012/README.md)
+
 
 # ICT619 Artificial Intelligence — Machine Learning-Based Predictive Maintenance System
 
